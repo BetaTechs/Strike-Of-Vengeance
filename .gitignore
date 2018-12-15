@@ -1,3 +1,18 @@
+# General
+.DS_Store
+*~
+*.swp
+*.log
+
+# Editor config folder
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Unity3d
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
